@@ -1,2 +1,2 @@
 # Prospector
-Gibson's Prospector for Unity
+Gibson's Prospector Solitaire
